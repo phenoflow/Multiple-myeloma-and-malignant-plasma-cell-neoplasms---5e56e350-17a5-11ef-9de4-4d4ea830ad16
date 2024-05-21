@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-gamma---primary.py
+inputModule3:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-leukaemia---primary.py
+inputModule4:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-tumour---primary.py
+inputModule5:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms---primary.py
+inputModule6:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-waldenstrom---primary.py
+inputModule7:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-kahler's---primary.py
+inputModule8:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-alpha---primary.py
+inputModule9:
+  class: File
+  path: python/immunoproliferative-multiple-myeloma-and-malignant-plasma-cell-neoplasms---primary.py
+inputModule10:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-[m]multiple---primary.py
+inputModule11:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-[m]plasma---primary.py
+inputModule12:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-macroglobulinaemia---primary.py
+inputModule13:
+  class: File
+  path: python/solitary-multiple-myeloma-and-malignant-plasma-cell-neoplasms---primary.py
+inputModule14:
+  class: File
+  path: python/myeloma---primary.py
+inputModule15:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-chain---primary.py
+inputModule16:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-[m]myelomatosis---primary.py
+inputModule17:
+  class: File
+  path: python/multiple-myeloma-and-malignant-plasma-cell-neoplasms-myelomatosis---primary.py
+inputModule18:
+  class: File
+  path: python/heavy-multiple-myeloma-and-malignant-plasma-cell-neoplasms---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
